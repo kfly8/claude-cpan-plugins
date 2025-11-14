@@ -10,7 +10,5 @@
   "repository": "https://github.com/kfly8/p5-Result-Simple",
   "license": "MIT",
   "keywords": ["perl", "cpan", "result-type", "error-handling", "functional"],
-  "commands": "./commands/",
-  "agents": "./agents/",
   "skills": "./skills/"
 }
