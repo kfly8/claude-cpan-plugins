@@ -1,0 +1,14 @@
+{
+  "name": "cpan-kura",
+  "version": "1.0.0",
+  "description": "Store and export type constraints for Type::Tiny, Moose, Data::Checks, and more",
+  "author": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "homepage": "https://github.com/kfly8/kura",
+  "repository": "https://github.com/kfly8/kura",
+  "license": "MIT",
+  "keywords": ["perl", "cpan", "type-constraints", "validation", "type-library"],
+  "skills": "./skills/"
+}

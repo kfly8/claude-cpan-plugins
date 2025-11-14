@@ -20,6 +20,12 @@
       "source": "./plugins/Syntax-Keyword-Assert"
     },
     {
+      "name": "cpan-kura",
+      "description": "Store and export type constraints for Type::Tiny, Moose, Data::Checks, and more",
+      "version": "1.0.0",
+      "source": "./plugins/kura"
+    },
+    {
       "name": "generate-cpan-skill",
       "description": "Generate Claude Skills from CPAN modules",
       "version": "1.0.0",
