@@ -1,0 +1,14 @@
+{
+  "name": "cpan-syntax-keyword-assert",
+  "version": "1.0.0",
+  "description": "Assert keyword for Perl with zero runtime cost",
+  "author": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "homepage": "https://github.com/kfly8/claude-cpan-plugins",
+  "repository": "https://github.com/kfly8/claude-cpan-plugins",
+  "license": "MIT",
+  "keywords": ["perl", "cpan", "assert", "debugging", "syntax-extension"],
+  "skills": "./skills/"
+}

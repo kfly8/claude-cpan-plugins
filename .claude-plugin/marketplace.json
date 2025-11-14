@@ -14,6 +14,12 @@
       "source": "./plugins/Result-Simple"
     },
     {
+      "name": "cpan-syntax-keyword-assert",
+      "description": "Assert keyword for Perl with zero runtime cost",
+      "version": "1.0.0",
+      "source": "./plugins/Syntax-Keyword-Assert"
+    },
+    {
       "name": "generate-cpan-skill",
       "description": "Generate Claude Skills from CPAN modules",
       "version": "1.0.0",
