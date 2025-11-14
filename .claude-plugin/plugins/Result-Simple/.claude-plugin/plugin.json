@@ -1,0 +1,16 @@
+{
+  "name": "cpan-result-simple",
+  "version": "1.0.0",
+  "description": "Simple result type implementation for Perl, inspired by Rust's Result type",
+  "author": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "homepage": "https://github.com/kfly8/p5-Result-Simple",
+  "repository": "https://github.com/kfly8/p5-Result-Simple",
+  "license": "MIT",
+  "keywords": ["perl", "cpan", "result-type", "error-handling", "functional"],
+  "commands": "./commands/",
+  "agents": "./agents/",
+  "skills": "./skills/"
+}

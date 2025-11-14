@@ -1,0 +1,15 @@
+{
+  "name": "generate-cpan-skill",
+  "version": "1.0.0",
+  "description": "Generate Claude Skills from CPAN module documentation",
+  "author": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "homepage": "https://github.com/kfly8/claude-cpan-plugins",
+  "repository": "https://github.com/kfly8/claude-cpan-plugins",
+  "license": "MIT",
+  "keywords": ["perl", "cpan", "skill-generator", "documentation"],
+  "commands": ["./commands/generate.md", "./commands/verify-module.md"],
+  "agents": "./agents/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kfly8-claude-cpan-plugins",
+  "description": "Claude plugins for CPAN modules and Perl development",
+  "version": "1.0.0",
+  "owner": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "cpan-result-simple",
+      "description": "Result type for Perl error handling",
+      "version": "1.0.0",
+      "source": "./plugins/Result-Simple"
+    },
+    {
+      "name": "generate-cpan-skill",
+      "description": "Generate Claude Skills from CPAN modules",
+      "version": "1.0.0",
+      "source": "./plugins/generate-cpan-skill"
+    }
+  ]
+}
